@@ -1,3 +1,3 @@
 # Caesar-cipher
 
-A simple program to list all possible decrypt answers for a Caesar Cipher encrypted string.
+The script essentially tries to decrypt the input message for all possible Caesar Cipher shift values and prints the results.
